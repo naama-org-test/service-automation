@@ -1,0 +1,11 @@
+name: Port Scaffold Service
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scaffold-service:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Example step
+        run: echo "✅ Port scaffold workflow is ready"
