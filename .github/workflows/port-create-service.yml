@@ -1,4 +1,4 @@
-name: Scaffold a new service
+name: Scaffold my new service
 
 on:
   workflow_dispatch:
